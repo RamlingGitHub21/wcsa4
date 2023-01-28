@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-26T13:42:05 IST" name="Default suite" finished-at="2023-01-26T13:42:19 IST" duration-ms="14112">
+    <groups>
+    </groups>
+    <test started-at="2023-01-26T13:42:05 IST" name="Default test" finished-at="2023-01-26T13:42:19 IST" duration-ms="14112">
+      <class name="TestNgPack2.Flag3">
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:05 IST" name="Flag3" finished-at="2023-01-26T13:42:08 IST" duration-ms="3150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:08 IST" name="Flag3" finished-at="2023-01-26T13:42:10 IST" duration-ms="1114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:10 IST" name="Flag3" finished-at="2023-01-26T13:42:11 IST" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:11 IST" name="Flag3" finished-at="2023-01-26T13:42:12 IST" duration-ms="1125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:12 IST" name="Flag3" finished-at="2023-01-26T13:42:13 IST" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:13 IST" name="Flag3" finished-at="2023-01-26T13:42:14 IST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:14 IST" name="Flag3" finished-at="2023-01-26T13:42:15 IST" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:15 IST" name="Flag3" finished-at="2023-01-26T13:42:17 IST" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:17 IST" name="Flag3" finished-at="2023-01-26T13:42:18 IST" duration-ms="1494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+        <test-method signature="Flag3()[pri:0, instance:TestNgPack2.Flag3@65f095f8]" started-at="2023-01-26T13:42:18 IST" name="Flag3" finished-at="2023-01-26T13:42:19 IST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flag3 -->
+      </class> <!-- TestNgPack2.Flag3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
